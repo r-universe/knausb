@@ -1,5 +1,9 @@
 [
   {
+    "package": "pinfsc50",
+    "oncran": true
+  },
+  {
     "package": "vcfR",
     "oncran": true
   }
