@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pinfsc50"]
 	path = pinfsc50
 	url = https://github.com/knausb/pinfsc50
-	shallow = true
-	registered = true
 [submodule "vcfR"]
 	path = vcfR
 	url = https://github.com/knausb/vcfr
-	shallow = true
-	registered = true
